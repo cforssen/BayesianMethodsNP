@@ -5,4 +5,4 @@ The lecture notes can be accessed at [https://cforssen.gitlab.io/learningfromdat
 
 - See the [Getting started instructions](preparation.md)
 - See the [Lecture plan](schedule.md)
-- Problem sets and projects for the exercise sessions are available in the [Projects] and [ProblemSets] directories.
+- Problem sets and projects for the exercise sessions are available in the [Projects](Projects) and [ProblemSets](ProblemSets) directories.
