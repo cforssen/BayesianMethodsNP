@@ -1,6 +1,3 @@
-# Training in Advanced Low-Energy Nuclear Theory
-### Course 11. Learning from Data: Bayesian Methods and Machine Learning
-University of York, UK, June 10-28, 2019
 
 ## Introduction
 In recent years there has been an explosion of interest in the use of Bayesian methods in nuclear physics. These methods are being used to quantify the uncertainties in theoretical work on topics ranging from the NN force to high-energy heavy-ion collisions, develop more reliable extrapolants of nuclear-energy-density functionals towards the dripline, predict the impact that future NICER observations may have on the equation of state of neutron matter, and determine whether or not nucleon resonances are present in experimental data. Meanwhile machine learning is gaining increased currency as a method for identifying interesting signals in both experiments and simulations.
