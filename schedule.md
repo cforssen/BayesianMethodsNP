@@ -11,7 +11,7 @@
     - Error models for your EFT
 
 ### Exercise session 1. Getting familiar with Bayes; 
-Day 1 Nuclear Physics Example: How ab initio nuclear theory offers an inferential advantage
+	Day 1 Nuclear Physics Example: How ab initio nuclear theory offers an inferential advantage
     - Problem set
     - Project: Bayesian linear regression
 
@@ -27,7 +27,7 @@ Day 1 Nuclear Physics Example: How ab initio nuclear theory offers an inferentia
     - Example: Fast and rigorous constraints on chiral effective field theory forves from few-body observables
 
 ### Exercise session 2. Tools and tricks for MCMC sampling; 
-Day 2 Nuclear Physics Example: Fast and rigorous constraints on three-nucleon forces from few-body observables
+	Day 2 Nuclear Physics Example: Fast and rigorous constraints on three-nucleon forces from few-body observables
     - Problem set
     - Project: Fast and rigorous constraints on chiral effective field
       theory forves from few-body observables 
