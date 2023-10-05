@@ -11,7 +11,8 @@
     - Error models for your EFT
 
 ### Exercise session 1. Getting familiar with Bayes; 
-	Day 1 Nuclear Physics Example: How ab initio nuclear theory offers an inferential advantage
+	Day 1 Nuclear Physics Example: How ab initio nuclear theory 
+	offers an inferential advantage
     - Problem set
     - Project: Bayesian linear regression
 
@@ -24,13 +25,15 @@
 ### Lecture 4. Advanced MCMC sampling
     - Hamiltonian Monte Carlo
     - Sampling/Importance resampling
-    - Example: Fast and rigorous constraints on chiral effective field theory forves from few-body observables
+    - Example: Fast and rigorous constraints on chiral effective field 
+      theory forves from few-body observables
 
 ### Exercise session 2. Tools and tricks for MCMC sampling; 
-	Day 2 Nuclear Physics Example: Fast and rigorous constraints on three-nucleon forces from few-body observables
+	Day 2 Nuclear Physics Example: Fast and rigorous constraints on 
+	three-nucleon forces from few-body observables
     - Problem set
     - Project: Fast and rigorous constraints on chiral effective field
-      theory forves from few-body observables 
+      theory forces from few-body observables 
 
 ### Lecture 5. Bayes goes fast: Reduced-order modeling, emulators
     - Non-intrusive vs intrusive reduced-order models
@@ -39,4 +42,5 @@
 
 ### Lecture 6. Bayes goes linear: History matching
     - History matching
-    - Example: Ab initio predictions link the neutron skin of 208Pb to nuclear forces
+    - Example: Ab initio predictions link the neutron skin of 208Pb 
+      to nuclear forces
