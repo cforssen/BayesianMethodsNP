@@ -25,8 +25,8 @@
 ### Lecture 4. Advanced MCMC sampling
     - Hamiltonian Monte Carlo
     - Sampling/Importance resampling
-    - Example: Fast and rigorous constraints on chiral effective field 
-      theory forves from few-body observables
+    - Example: Inference of the low-energy constants in delta-full chiral
+      effective field theory including a correlated truncation error
 
 ### Exercise session 2. Tools and tricks for MCMC sampling; 
 	Day 2 Nuclear Physics Example: Fast and rigorous constraints on 

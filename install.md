@@ -13,7 +13,7 @@ There are plenty of tutorials and guides how to use git. Two recommended ones ar
 <li><a href="https://git-scm.com/book/en/v2" target="_blank" rel="noopener">Pro Git</a> (an online book by Scott Chacon and Ben Straub).</li>
 </ul>
 
-You are encouraged to set your user name and email address. This is important because every Git commit uses this information, and it&rsquo;s immutably baked into the commits you start creating:<
+You are encouraged to set your user name and email address. This is important because every Git commit uses this information, and it&rsquo;s immutably baked into the commits you start creating:
 
 <pre class="prettyprint"><code class="language-java">$ git config --global user.name "Emilia Student"
 $ git config --global user.email name@example.com
@@ -24,11 +24,11 @@ You might also want to set your default editor. Pick the one that you prefer. E.
 </code></pre>
 
 ## Python distribution
-We will make extensive use of Python as programming language and its myriad of available libraries. You will find Jupyter notebooks invaluable in your work since they make it possible to run Python code interactively with the immediate benefit of visualizing your data. Jupyter notebooks also offer the possibility to run Julia or R code, or even integrate code in compiled languages like C++, Fortran etc if you prefer. The focus in this course will be on Python.
+We will make extensive use of Python as programming language and its myriad of available libraries. Jupyter notebooks make it possible to run Python code interactively with the immediate benefit of visualizing your data. It is also possible to run Julia or R code, or even integrate code in compiled languages like C++, Fortran etc if you prefer. The focus in this course will be on Python.
 
 The notebooks that we will be using depend on several scientific python modules (see the list in <a href="environment.yml">environment.yml</a>) and they require a python3.x installation.
 
-These python modules and their dependencies are best installed using <code>conda</code> by creating a virtual environment. The <code>conda</code> package manager can easily be installed as a local user, which does not require administrator permissions. Note that he miniconda installation requires 400 MB disk space.
+These python modules and their dependencies are best installed using <code>conda</code> by creating a virtual environment. The <code>conda</code> package manager can easily be installed as a local user, which does not require administrator permissions. Note that the miniconda installation requires 400 MB disk space.
 
 <ol>
 <li>Download and run the miniconda installer:
@@ -55,7 +55,7 @@ should show that you are using a Python3 version.</li>
 </li>
 <li>
 <p>Once the virtual environment has been created it can be activated:</p>
-<pre class="prettyprint"><code class="language-java">$ conda activate tif285-env
+<pre class="prettyprint"><code class="language-java">$ conda activate bayesNP-env
 </code></pre>
 <p>For future reference, to deactivate the virtual environment:<code>conda deactivate</code></p>
 </li>
@@ -71,11 +71,11 @@ There are also other options (<code>venv</code>, <code>pipenv</code>) for creati
 ## Jupyter notebooks
 <a href="https://jupyter.org/">Jupyter notebooks</a> will be used extensively in this course. It is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-Therefore, once the environment is set up and activated, you are encouraged to get acquainted with the notebook workflow by starting a jupyter notebook in the directory with the lecture contents. In the directory tree from the github repository:
+Therefore, once the environment is set up and activated, you are encouraged to get acquainted with the notebook workflow by starting a jupyter notebook in a directory with ipynb files. E.g., in the directory tree of the cloned github repository:
 
 <pre class="prettyprint"><code class="language-java">$ jupyter notebook
 </code></pre>
 
-The Jupyter Notebook will open in your default browser. It should show a list of the subdirectories. It is recommended that you start with the Jupyter-Python-NumPy exercise notebooks in the Intro directory. Just double-click on the first one to get started. Make sure to evaluate the cells with <strong>shift-return</strong>.
+The Jupyter Notebook will open in your default browser. It should show a list of the subdirectories. 
 
-However, a word of caution: Since Jupyter Notebooks are not pure text files (they are basically json files), they do not integrate seamlessly with git version control. The action of evaluating a cell in a notebook, without changing any code, will register as a file update in git. 
+However, a word of caution: Since Jupyter Notebooks are json files with much metadata, they do not integrate seamlessly with git version control. The action of evaluating a cell in a notebook, without changing any code, will register as a file update in git. 
