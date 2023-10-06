@@ -3,7 +3,7 @@ All files that are associated with this course are available via this public git
 
 Using git, the course material can be downloaded by cloning the github repository:
 
-<pre class="prettyprint"><code class="language-java">$ git clone git@github.com:cforssen/BayesianMethodsNP.git </code></pre>
+<pre class="prettyprint"><code class="language-java">$ git clone https://github.com/cforssen/BayesianMethodsNP.git</code></pre>
 
 after which it will be available in the <code>BayesianMethodsNP</code> directory. You will have to perform a <code>git pull</code> operation when wou want to retrieve future updates in the github repository. When using the github repository to stay up-to-date with course material it is recommended to make a local copy of notebooks before starting to edit them. The easiest is probably to create a new directory with your local copies. The git approach, however, would be to create a new branch.
 
