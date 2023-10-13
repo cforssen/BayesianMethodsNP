@@ -6,3 +6,5 @@ This repository contains the lecture plan, getting-started instructions, and exe
 - Problem sets and projects for the exercise sessions are available in the [Projects](Projects) and [ProblemSets](ProblemSets) directories.
 
 The lectures are accompanied by a collection of lecture notes in the form of a Jupyter Book. This book covers several topics that are not included in the lecture series. These notes can be accessed at [https://cforssen.gitlab.io/learningfromdata/](https://cforssen.gitlab.io/learningfromdata/).
+
+Please see the final evaluation form at [https://forms.gle/7v6QSMKCTqfcj4z66](https://forms.gle/7v6QSMKCTqfcj4z66)
